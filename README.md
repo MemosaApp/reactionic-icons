@@ -1,6 +1,6 @@
 # reactionic-icons
 
-Badges
+[![CircleCI](https://circleci.com/gh/MemosaApp/reactionic-icons.svg?style=svg)](https://circleci.com/gh/MemosaApp/reactionic-icons)
 
 Icon React helper components for Reactionic.
 
